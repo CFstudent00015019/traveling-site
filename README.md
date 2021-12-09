@@ -10,4 +10,4 @@
 # I also used the JavaScript from add functionality, DOM elements and validation.
 
 # This link from GitHub https://github.com/CFstudent00015019/traveling-site
-# This link from free hosted site https://travel-site-v-1.netlify.app/
+# This link from free hosted site https://traveling-site-v-1.netlify.app/
