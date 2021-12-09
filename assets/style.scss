@@ -483,6 +483,7 @@ input {
   flex-direction: column;
   transform: translateX(-100%);
   display: none;
+  z-index: 1;
   transition: 0.5s all;
   .menu-control{
     display: flex;
@@ -606,6 +607,7 @@ input {
     .header{
       background-size: cover;
       background-position: center;
+      z-index: 0;
         .navbar{
             .nav-list{
                 display: none;
@@ -620,6 +622,7 @@ input {
         }
         .menu{
           display: block;
+          z-index: 1;
         }
         .home-page{
             flex-direction: column;

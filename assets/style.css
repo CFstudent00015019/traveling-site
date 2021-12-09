@@ -697,6 +697,7 @@ input {
   -webkit-transform: translateX(-100%);
           transform: translateX(-100%);
   display: none;
+  z-index: 1;
   -webkit-transition: 0.5s all;
   transition: 0.5s all;
 }
@@ -832,6 +833,7 @@ input {
   .header {
     background-size: cover;
     background-position: center;
+    z-index: 0;
   }
   .header .navbar .nav-list {
     display: none;
@@ -845,6 +847,7 @@ input {
   }
   .header .menu {
     display: block;
+    z-index: 1;
   }
   .header .home-page {
     -webkit-box-orient: vertical;
