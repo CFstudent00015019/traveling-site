@@ -1,5 +1,5 @@
 # i am alisher azizov 
-# in this course work on web technology module, Traveling Blog is chose from requirement to create the fron-end the Web Site.
+# in this course work of web technology module, Traveling Blog is chose from requirement to create the fron-end the Web Site.
 
 # The Front - end side have 6 web pages with various HTML structures. And all pages are not in a one folder for making it understandable.
 
